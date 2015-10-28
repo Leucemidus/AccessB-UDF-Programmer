@@ -1,0 +1,9 @@
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\bin\Debug\AccessB UDF Programmer.exe.config
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\bin\Debug\AccessB UDF Programmer.exe
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\bin\Debug\AccessB UDF Programmer.pdb
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\obj\Debug\AccessB UDF Programmer.csprojResolveAssemblyReference.cache
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\obj\Debug\AccessB_UDF_Programmer.frmAccbUDFProg.resources
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\obj\Debug\AccessB_UDF_Programmer.Properties.Resources.resources
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\obj\Debug\AccessB UDF Programmer.csproj.GenerateResource.Cache
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\obj\Debug\AccessB UDF Programmer.exe
+c:\users\sodor\documents\visual studio 2012\Projects\AccessB UDF Programmer\AccessB UDF Programmer\obj\Debug\AccessB UDF Programmer.pdb
